@@ -4,7 +4,7 @@
 RESTful API on top of MongoDB, with authentication and endpoints to some recipes.
 </p>
 <p>
-To run this project, clone it, cd into it, and hit 'npm install' and then 'npm run dev'.
+To run this project, clone it, cd into it, and hit ```npm install``` and then 'npm run dev'.
 Alternatively, use 'yarn install' and 'yarn run dev'.
 </p>
 <p>
