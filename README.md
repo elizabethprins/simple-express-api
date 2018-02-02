@@ -17,7 +17,7 @@ If you do not, hit 'brew update', 'brew install mongodb', 'brew services start m
 Then hit 'npm/yarn run seed' to seed the database.
 </p>
 <p>
-This project will also run with 'npm start' / 'yarn start'.
+(This project will also run with 'npm start' / 'yarn start').
 </p>
 <p>
 You can find the corresponding React front-end here:
