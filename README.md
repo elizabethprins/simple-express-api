@@ -12,7 +12,9 @@ Make sure that you have MongoDB running: 'ps aux | grep mongo'.
 </p>
 <p>
 If you do not, hit 'brew update', 'brew install mongodb', 'brew services start mongodb'.
-Then 'npm/yarn run seed' to seed the database.
+</p>
+<p>
+Then hit 'npm/yarn run seed' to seed the database.
 </p>
 <p>
 This project will also run with 'npm start' / 'yarn start'.
